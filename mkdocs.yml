@@ -1,0 +1,95 @@
+site_name: Genesis Writes
+theme:
+  name: material
+  custom_dir: docs
+  language: en
+  logo: assets/img/favicon.ico
+  favicon: assets/img/favicon.ico
+  extra_css:
+    - extra.css
+  
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  
+  features:
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  
+  plugins:
+    - typeset
+    - search
+    - blog
+    - mkdocs-nav-weight:
+        section_renamed: false
+        index_weight: -10
+        warning: true
+        reverse: false
+        headless_included: false
+    - tags:
+        enabled: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/genesis-writing
+      name: genesis-writing on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/genesis-sorto/
+      name: Genesis Sorto on LinkedIn
+  generator: true
+
+copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
+  
+markdown_extensions:
+  - admonition
+  - pymdownx.keys
+  - pymdownx.betterem
+  - pymdownx.mark
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true 
+
+nav:
+  - Home: index.md
+  - Knowledge Base:
+    - Project Info: knowledge-base/introduction_knowledge_base.md
+    - Setting Up Kap:
+      - knowledge-base/setting_up_kap/Installation-Guide_327695.md
+      - Screen Recording Access Guide: knowledge-base/setting_up_kap/Screen-Recording-Permission-Guide_393254.md
+    - Quick Start:
+      - knowledge-base/Quick-Start-Guide_327712.md
+    - Comprehensive User Guide:
+      - knowledge-base/comprehensive_user_guide/Tool-Bar_393330.md
+      - Preferences and Plugins: knowledge-base/comprehensive_user_guide/Preferences-and-Plugins_360709.md
+      - Editor: knowledge-base/comprehensive_user_guide/Editor_262804.md
+      - How to Complete a Recording: knowledge-base/comprehensive_user_guide/How-to-Complete-a-Recording_360882.md
+  - SOP:
+    - SOP Intro: sop/SOP-intro.md
+    - Business Operation Process: sop/business-operation-process.md
+  - Training:
+    - Training Docs Intro: training-docs/training-docs-intro.md
+    - Training Plan: training-docs/training-plan.md
+    - Employee Training Evaluation Profile: training-docs/employee-training-evaluation-profile.md
+  - Fun:
+    - Fun Intro: fun/fun-intro.md
+    - How to Cook Shrimp Fried Rice: fun/how-to-cook-shrimp-fried-rice.md
+    - Gameboy Colour Technical Data Sheet: fun/gameboy-colour-technical-data-sheet-portfolio.md

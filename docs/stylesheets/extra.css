@@ -1,0 +1,19 @@
+:root {
+/* Darker palette for light mode */
+    --md-primary-fg-color: #2f47b1;
+    --md-primary-fg-color--light: #344ec3;
+    --md-primary-fg-color--lighter: #3853ca;
+    --md-primary-fg-color--lightest: #526ad1;
+    --md-primary-bg-color: #f8f9fa;
+    --md-primary-bg-color--light: #ffffff;
+}
+
+/* Dark mode for readability, a lighter paletter */
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #e2e7fd;
+    --md-primary-fg-color--light: #b5c2fa;
+    --md-primary-fg-color--lighter: #ffffff;
+    --md-primary-fg-color--lightest: #ffffff;
+    --md-primary-bg-color: #212121;
+    --md-primary-bg-color--light: #424242;
+}
