@@ -34,23 +34,18 @@ theme:
     - search.suggest
     - search.highlight
   
-  plugins:
-    - typeset
-    - search
-    - blog:
-        post_date_format: full
-        post_readtime: true
-        authors: true
-        authors_file: blog/.authors.yml
-        authors_profiles: true
-    - mkdocs-nav-weight:
-        section_renamed: false
-        index_weight: -10
-        warning: true
-        reverse: false
-        headless_included: false
-    - tags:
-        enabled: true
+plugins:
+  - glightbox
+  - search
+  - blog:
+      post_date_format: full
+      post_readtime: true
+      authors: true
+      authors_file: blog/.authors.yml
+      authors_profiles: true
+  - tags:
+      enabled: true
+    
 
 extra:
   social:
