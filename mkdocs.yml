@@ -102,7 +102,7 @@ nav:
   - Blog:
     - blog/index.md
     - 2024 Posts:
-      - MkDocs is Amazing: blog/posts/2024-07-05-third-blog-post.md
+      - MkDocs is Amazing: blog/posts/2024-07-07-fourth-blog-post.md
       - Mermaid?: blog/posts/2024-07-05-third-blog-post.md
       - Second post: blog/posts/2024-07-04-second-blog-post.md
       - First post: blog/posts/2024-07-03-first-blog-post.md
