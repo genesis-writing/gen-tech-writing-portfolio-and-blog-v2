@@ -12,5 +12,5 @@ I referenced the specifications from Nintendo’s UK website, specifically their
 
 ## **Technical Data Sheet**
 
-![Gameboy color data](../assets//img/fun-images/gameboy-technical-data-sheet.jpeg)
+![Gameboy color data](../assets/img/fun-images/gameboy-technical-data-sheet.jpeg)
 

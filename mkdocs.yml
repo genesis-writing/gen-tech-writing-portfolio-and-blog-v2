@@ -1,4 +1,5 @@
 site_name: Genesis Writes
+site_url: https://genesistechwriter.netlify.app
 theme:
   name: material
   custom_dir: docs
@@ -36,7 +37,12 @@ theme:
   plugins:
     - typeset
     - search
-    - blog
+    - blog:
+        post_date_format: full
+        post_readtime: true
+        authors: true
+        authors_file: blog/.authors.yml
+        authors_profiles: true
     - mkdocs-nav-weight:
         section_renamed: false
         index_weight: -10
@@ -66,7 +72,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - toc:
-      permalink: true 
+      permalink: true
 
 nav:
   - Home: index.md
@@ -93,3 +99,9 @@ nav:
     - Fun Intro: fun/fun-intro.md
     - How to Cook Shrimp Fried Rice: fun/how-to-cook-shrimp-fried-rice.md
     - Gameboy Colour Technical Data Sheet: fun/gameboy-colour-technical-data-sheet-portfolio.md
+  - Blog:
+    - blog/index.md
+    - 2024 Posts:
+      - First post: blog/posts/2024-07-03-first-blog-post.md
+      - Second post: blog/posts/2024-07-04-second-blog-post.md
+      - Third post: blog/posts/2024-07-05-third-blog-post.md

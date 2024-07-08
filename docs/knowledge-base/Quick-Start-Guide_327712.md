@@ -1,6 +1,5 @@
 ---
 title: Quick Start Guide
-weight: 2
 ---
 
 # Quick Start Guide
