@@ -35,6 +35,7 @@ theme:
     - search.highlight
   
 plugins:
+  # Present images in a lightbox on click
   - glightbox
   - search
   - blog:
@@ -56,6 +57,9 @@ extra:
       link: https://www.linkedin.com/in/genesis-sorto/
       name: Genesis Sorto on LinkedIn
   generator: true
+  analytics:
+    provider: google
+    property: G-WT9LBKPBT
 
 copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
   
