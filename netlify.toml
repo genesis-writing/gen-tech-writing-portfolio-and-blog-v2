@@ -1,7 +1,4 @@
+# netlify.toml
 [build]
-  publish = "site"
   command = "mkdocs build"
-
-[context.production.environment]
-  PYTHON_VERSION = "3.8"
-  PIP_NO_BINARY = "mkdocs, mkdocs-material"
+  publish = "site"
