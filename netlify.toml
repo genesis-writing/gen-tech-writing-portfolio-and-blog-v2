@@ -3,5 +3,5 @@
   command = "mkdocs build"
 
 [context.production.environment]
-  PYTHON_VERSION = "3.9"
+  PYTHON_VERSION = "3.8"
   PIP_NO_BINARY = "mkdocs, mkdocs-material"
