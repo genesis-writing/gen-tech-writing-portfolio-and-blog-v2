@@ -1,5 +1,7 @@
 ---
 title: How to Cook Shrimp Fried Rice
+tags:
+  - fun
 ---
 
 # How to Cook Shrimp Fried Rice

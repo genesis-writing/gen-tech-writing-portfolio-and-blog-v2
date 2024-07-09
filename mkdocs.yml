@@ -1,5 +1,8 @@
+# Site info
 site_name: Genesis Writes
 site_url: https://genesistechwriter.netlify.app
+
+# Theme with Material for MkDocs
 theme:
   name: material
   custom_dir: docs
@@ -8,7 +11,7 @@ theme:
   favicon: assets/img/favicon.ico
   extra_css:
     - extra.css
-  
+
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -34,10 +37,18 @@ theme:
     - search.suggest
     - search.highlight
   
+  icon:
+    tag:
+      knowledge-base: fontawesome/solid/brain
+      sop: fontawesome/solid/users-gear
+      training: fontawesome/solid/lightbulb
+      fun: fontawesome/solid/face-smile  
+  
 plugins:
   # Present images in a lightbox on click
   - glightbox
   - search
+  - git-revision-date-localized
   - blog:
       post_date_format: full
       post_readtime: true
@@ -45,9 +56,8 @@ plugins:
       authors_file: blog/.authors.yml
       authors_profiles: true
   - tags:
-      enabled: true
+      tags_file: tags.md
     
-
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -59,11 +69,18 @@ extra:
   generator: true
   analytics:
     provider: google
-    property: G-WT9LBKPBT
+    property: G-WT9LBKPBTG
+  tags:
+    Knowledge Base: knowledge-base
+    SOP: sop
+    Training: training
+    Fun: fun
 
+#For Footer
 copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
   
 markdown_extensions:
+  # For callouts
   - admonition
   - pymdownx.keys
   - pymdownx.betterem
@@ -73,6 +90,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
+# Top nav bar elements
 nav:
   - Home: index.md
   - Knowledge Base:
@@ -100,7 +118,7 @@ nav:
     - Gameboy Colour Technical Data Sheet: fun/gameboy-colour-technical-data-sheet-portfolio.md
   - Blog:
     - blog/index.md
-    - 2024 Posts:
+    - Posts:
       - MkDocs is Amazing: blog/posts/2024-07-07-fourth-blog-post.md
       - Mermaid?: blog/posts/2024-07-05-third-blog-post.md
       - Second post: blog/posts/2024-07-04-second-blog-post.md

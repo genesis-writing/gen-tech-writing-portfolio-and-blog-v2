@@ -1,5 +1,7 @@
 ---
 title: Employee Training Evaluation Profile
+tags:
+  - training
 ---
 
 # Employee Training Evaluation Profile

@@ -1,5 +1,7 @@
 ---
 title: Screen Recording Access Guide
+tags:
+  - knowledge-base
 ---
 
 # Screen Recording Permission Guide

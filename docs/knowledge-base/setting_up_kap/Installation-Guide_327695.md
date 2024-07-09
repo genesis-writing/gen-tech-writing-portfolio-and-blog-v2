@@ -1,5 +1,7 @@
 ---
 title: Installation Guide
+tags:
+  - knowledge-base
 ---
 
 # Installation Guide

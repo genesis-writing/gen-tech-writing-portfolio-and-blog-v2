@@ -1,5 +1,7 @@
 ---
 title: How to Complete a Recording
+tags:
+  - knowledge-base
 ---
 
 #  How to Complete a Recording

@@ -1,5 +1,7 @@
 ---
 title: Preferences and Plugins
+tags:
+  - knowledge-base
 ---
 
 # Preferences and Plugins

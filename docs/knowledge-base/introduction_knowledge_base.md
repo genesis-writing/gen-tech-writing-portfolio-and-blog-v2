@@ -1,5 +1,7 @@
 ---
 title: Project Info
+tags:
+  - knowledge-base
 ---
 
 # Project Info

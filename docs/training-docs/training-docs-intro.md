@@ -1,5 +1,7 @@
 ---
 title: Training Docs Intro
+tags:
+  - training
 ---
 
 # Training Docs

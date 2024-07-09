@@ -1,5 +1,7 @@
 ---
 title: Training Plan
+tags:
+  - training
 ---
 
 # Training Plan
