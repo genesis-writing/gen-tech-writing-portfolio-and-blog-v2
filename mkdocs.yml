@@ -111,11 +111,6 @@ extra:
   # Retain "Made with Material for MkDocs" in footer
   generator: true
 
-  # Add Google Analytics
-  analytics:
-    provider: google
-    property: G-WT9LBKPBTG
-
   # Associate each tag with a unique identifier
   tags:
     Knowledge Base: knowledge-base
@@ -123,7 +118,6 @@ extra:
     Training: training
     Fun: fun
     Blog: blog
-
 
 #For Footer
 copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
@@ -200,6 +194,7 @@ nav:
   - Blog:
     - blog/index.md
     - Posts:
+      - Wordpress Transition: blog/posts/2024-07-09-sixth-blog-post.md
       - YAML and Python: blog/posts/2024-07-08-fifth-blog-post.md
       - MkDocs is Amazing: blog/posts/2024-07-07-fourth-blog-post.md
       - Second post: blog/posts/2024-07-04-second-blog-post.md
