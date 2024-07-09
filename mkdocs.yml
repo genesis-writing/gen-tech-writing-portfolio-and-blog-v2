@@ -7,8 +7,12 @@ theme:
   name: material
   custom_dir: docs
   language: en
+
+  # Header and browser tab logo
   logo: assets/img/favicon.ico
   favicon: assets/img/favicon.ico
+
+  # Customize theme even further
   extra_css:
     - extra.css
 
@@ -28,37 +32,74 @@ theme:
         name: Switch to light mode
   
   features:
+
+    - content.action.view
+
+    # Enable copying code
+    - content.code.copy
+
+    # Back to top anchor
     - navigation.top
+
+    # Include links to previous and next page of current page
     - navigation.footer
+
+    # URL in address bar is automatically updated with active anchor highlighted in toc
     - navigation.tracking
+
+    # Top-level sections rendered in a menu layer below header
     - navigation.tabs
+
+    # Top-level sections rendered as groups in sidebar
     - navigation.sections
+
+    # Ensure toc always rendered on the left
     - toc.integrate
+    
+    # Display the likeliest completion in search bar
     - search.suggest
+
+    # Highlight search query matches in the result
     - search.highlight
   
   icon:
+    # For social cards
+    logo: assets/img/favicon.ico
+
+    # Icons for tags    
     tag:
       knowledge-base: fontawesome/solid/brain
       sop: fontawesome/solid/users-gear
       training: fontawesome/solid/lightbulb
-      fun: fontawesome/solid/face-smile  
+      fun: fontawesome/solid/face-smile
+      blog: fontawesome/brands/microblog
   
+# Power up our docs!
 plugins:
   # Present images in a lightbox on click
   - glightbox
+
+  # Enable docs search
   - search
+
+  # Add a last updated date
   - git-revision-date-localized
+
+  # Add a blog
   - blog:
+      # Format Day, Month DD, YYYY
       post_date_format: full
+      # Display reading time of a post
       post_readtime: true
-      authors: true
-      authors_file: blog/.authors.yml
-      authors_profiles: true
   - tags:
+      # Tag index, makes each tag clickable
       tags_file: tags.md
+  
+  # Social cards
+  - social
     
 extra:
+  # Rendered next to the copyright notice as part of the footer
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/genesis-writing
@@ -66,15 +107,23 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/genesis-sorto/
       name: Genesis Sorto on LinkedIn
+  
+  # Retain "Made with Material for MkDocs" in footer
   generator: true
+
+  # Add Google Analytics
   analytics:
     provider: google
     property: G-WT9LBKPBTG
+
+  # Associate each tag with a unique identifier
   tags:
     Knowledge Base: knowledge-base
     SOP: sop
     Training: training
     Fun: fun
+    Blog: blog
+
 
 #For Footer
 copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
@@ -82,17 +131,41 @@ copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
 markdown_extensions:
   # For callouts
   - admonition
+
+  # Render keyboard keys and combos (doesn't work in lists?)
   - pymdownx.keys
+
+  # Emphasize text using special characters, i.e. for **bold** and _italic_ formatting
   - pymdownx.betterem
+
+  # For mark characters
   - pymdownx.mark
+
+  # Makes admonitions collapsible
   - pymdownx.details
+
+  # Allows nesting admonitions, tabs, lists and all other elements
   - pymdownx.superfences
+
+  #  enables syntax highlighting on code blocks and inline code blocks,
+  # and allows to include source code directly from other files
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
+  # Internal anchor links for headings
   - toc:
-      permalink: true
+      permalink: 🔗
 
 # Top nav bar elements
 nav:
+  # Home page
   - Home: index.md
+
+  # Knowledge base portfolio pieces - Kap user guide
   - Knowledge Base:
     - Project Info: knowledge-base/introduction_knowledge_base.md
     - Setting Up Kap:
@@ -105,23 +178,36 @@ nav:
       - Preferences and Plugins: knowledge-base/comprehensive_user_guide/Preferences-and-Plugins_360709.md
       - Editor: knowledge-base/comprehensive_user_guide/Editor_262804.md
       - How to Complete a Recording: knowledge-base/comprehensive_user_guide/How-to-Complete-a-Recording_360882.md
+
+  # Standard operation procedure portfolio pieces
   - SOP:
     - SOP Intro: sop/SOP-intro.md
     - Business Operation Process: sop/business-operation-process.md
+  
+  # Training portfolio pieces
   - Training:
     - Training Docs Intro: training-docs/training-docs-intro.md
     - Training Plan: training-docs/training-plan.md
     - Employee Training Evaluation Profile: training-docs/employee-training-evaluation-profile.md
+  
+  # Fun portfolio pieces
   - Fun:
     - Fun Intro: fun/fun-intro.md
     - How to Cook Shrimp Fried Rice: fun/how-to-cook-shrimp-fried-rice.md
     - Gameboy Colour Technical Data Sheet: fun/gameboy-colour-technical-data-sheet-portfolio.md
+
+  # Blog posts
   - Blog:
     - blog/index.md
     - Posts:
+      - YAML and Python: blog/posts/2024-07-08-fifth-blog-post.md
       - MkDocs is Amazing: blog/posts/2024-07-07-fourth-blog-post.md
-      - Mermaid?: blog/posts/2024-07-05-third-blog-post.md
       - Second post: blog/posts/2024-07-04-second-blog-post.md
+      - Mermaid?: blog/posts/2024-07-05-third-blog-post.md
       - First post: blog/posts/2024-07-03-first-blog-post.md
+    
+      
+      
+      
       
 

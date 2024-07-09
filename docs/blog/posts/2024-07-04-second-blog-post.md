@@ -3,6 +3,8 @@ title: Second Post
 description: My second blog post
 date: 2024-07-04
 authors: [genesis-writing]
+tags:
+  - blog
 ---
 
 # Second Post

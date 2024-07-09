@@ -3,6 +3,8 @@ title: Mermaid?
 description: Sharing what I learned about Mermaid
 date: 2024-07-05
 authors: [genesis-writing]
+tags:
+  - blog
 ---
 
 # Mermaid?

@@ -1,4 +1,5 @@
 authors:
+  # author identifier (GitHub in this case)
   genesis-writing:
     name: Genesis Sorto
     description: Technical Writer
