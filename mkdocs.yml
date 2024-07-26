@@ -198,6 +198,7 @@ nav:
   - Blog:
     - blog/index.md
     - Posts:
+      - Completing CS50: blog/posts/2024-07-25-seventh-blog-post.md
       - Wordpress Transition: blog/posts/2024-07-09-sixth-blog-post.md
       - YAML and Python: blog/posts/2024-07-08-fifth-blog-post.md
       - MkDocs is Amazing: blog/posts/2024-07-07-fourth-blog-post.md

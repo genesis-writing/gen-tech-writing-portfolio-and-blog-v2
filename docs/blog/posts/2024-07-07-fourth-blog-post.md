@@ -3,7 +3,6 @@ title: MkDocs is Amazing
 description: Sharing my initial thoughts about MkDocs
 date: 2024-07-07
 authors: [genesis-writing]
-pin: true
 tags:
   - blog
 ---
