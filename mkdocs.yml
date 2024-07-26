@@ -118,6 +118,7 @@ extra:
     Training: training
     Fun: fun
     Blog: blog
+    Programming: programming
 
 #For Footer
 copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
@@ -189,6 +190,9 @@ nav:
     - Fun Intro: fun/fun-intro.md
     - How to Cook Shrimp Fried Rice: fun/how-to-cook-shrimp-fried-rice.md
     - Gameboy Colour Technical Data Sheet: fun/gameboy-colour-technical-data-sheet-portfolio.md
+
+  # Crowrite CS50 Final Project
+  - Crowrite: crowrite.md
 
   # Blog posts
   - Blog:
