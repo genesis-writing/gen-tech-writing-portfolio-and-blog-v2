@@ -203,6 +203,7 @@ nav:
   - Blog:
     - blog/index.md
     - Posts:
+      - Environment Variable for Google Analytics: blog/posts/2024-09-26-eigth-blog-post.md
       - Completing CS50: blog/posts/2024-07-25-seventh-blog-post.md
       - Wordpress Transition: blog/posts/2024-07-09-sixth-blog-post.md
       - YAML and Python: blog/posts/2024-07-08-fifth-blog-post.md
