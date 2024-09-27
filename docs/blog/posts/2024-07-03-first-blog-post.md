@@ -1,6 +1,6 @@
 ---
 title: First Post
-description: My very big blog post
+description: My very first blog post
 date: 2024-07-03
 authors: [genesis-writing]
 tags:
