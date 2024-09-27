@@ -120,6 +120,11 @@ extra:
     Blog: blog
     Programming: programming
 
+  # Google analytics
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+
 #For Footer
 copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
   
