@@ -115,3 +115,15 @@
 [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-tag-icon:before {
     background-color: var(--md-primary-bg-color);
 }
+
+
+
+
+
+/* Components for both light and dark modes */
+
+/* DARK MODE ONLY - Inline code formatting with backticks */
+.md-typeset code {
+    background-color: var(--md-default-fg-color);
+    color: var(--md-primary-bg-color);
+}
