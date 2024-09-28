@@ -16,7 +16,7 @@ concepts and end-users.
 
 ## **Let’s Connect**
 
-Feel free to [reach out](mailto:genesis.writing4fun@gmail.com) for collaboration or
-connect with me on [LinkedIn](https://www.linkedin.com/in/genesis-sorto/). I’m always open to discussions about technical writing and industry insights. I look forward to connecting with like-minded professionals.
+Feel free to <u>[reach out](mailto:genesis.writing4fun@gmail.com)</u> for collaboration or
+connect with me on <u>[LinkedIn](https://www.linkedin.com/in/genesis-sorto/)</u>. I’m always open to discussions about technical writing and industry insights. I look forward to connecting with like-minded professionals.
 
 ![Person pushing button and space graphic](./assets/img/homepage-portfolio-image.svg)

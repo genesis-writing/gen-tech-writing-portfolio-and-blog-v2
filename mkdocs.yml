@@ -12,24 +12,22 @@ theme:
   logo: assets/img/favicon.ico
   favicon: assets/img/favicon.ico
 
-  # Customize theme even further
-  extra_css:
-    - stylesheets/extra.css
-
   palette:
     # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
+        name: Switch to dark mode
   
   features:
 
@@ -103,6 +101,8 @@ plugins:
   
   # Social cards
   - social
+
+# Additional site info
     
 extra:
   # Rendered next to the copyright notice as part of the footer
@@ -133,7 +133,12 @@ extra:
 
 #For Footer
 copyright: Copyright &copy; 2024 Genesis Sorto - Technical Writer
-  
+
+# Customize theme even further
+extra_css:
+  - stylesheets/extra.css
+
+# Markdown extensions
 markdown_extensions:
   # For callouts
   - admonition
@@ -208,8 +213,4 @@ nav:
   # Blog posts
   - Blog:
     - blog/index.md
-      
-      
-      
-      
 

@@ -1,19 +1,117 @@
-:root {
-/* Darker palette for light mode */
-    --md-primary-fg-color: #2f47b1;
-    --md-primary-fg-color--light: #344ec3;
-    --md-primary-fg-color--lighter: #3853ca;
-    --md-primary-fg-color--lightest: #526ad1;
-    --md-primary-bg-color: #f8f9fa;
-    --md-primary-bg-color--light: #ffffff;
+/* LIGHT MODE components */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] {
+/* LIGHT MODE - Darker palette */
+    /* Nav bar */
+    --md-primary-fg-color: #343d5f;
+    /* Text: nav bar menu, dark and light mode toggle */
+    --md-primary-bg-color: #9fffe0;
+
+    /* Body color */
+    --md-default-bg-color: #FCFCFC;
+    /* Body text color */
+    --md-default-fg-color: #343d5f;
+
+    /* Gradient */
+    --md-primary-fg-color--light:#66b998;
+    --md-primary-fg-color--lighter: #80d9b8;
+    --md-primary-fg-color--lightest: #9fffe0;
+
+    /* Link color */
+    --md-typeset-a-color: #5c74ab;
 }
 
-/* Dark mode for readability, a lighter paletter */
-[data-md-color-scheme="slate"] {
-    --md-primary-fg-color: #e2e7fd;
-    --md-primary-fg-color--light: #b5c2fa;
+/* LIGHT MODE ONLY - For page titles */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-typeset h1 {
+    color: #2c2e38;
+}
+
+/* LIGHT MODE ONLY - hover over links contained inline, or in linked headings */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-typeset a:hover{
+    color: #2A82C4;
+}
+
+/* LIGHT MODE ONLY - Footer */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-footer {
+    background-color: #c3c7da;
+    color: var(--md-primary-fg-color);
+}
+
+/* LIGHT MODE ONLY - Tag and back to the top hover state */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-typeset .md-tag[href]:hover, .md-top:focus, .md-top:hover {
+    background-color: #0F1316;
+    color: #2A82C4;
+}
+
+/* LIGHT MODE ONLY - Tag and back to the top before hover state */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-typeset .md-tag[href], .md-top, .md-typeset .md-tag {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+/* LIGHT MODE ONLY - Tag icon before hover state */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-typeset .md-tag-icon:before {
+    background-color: var(--md-primary-bg-color);
+}
+
+
+
+
+
+
+/* DARK MODE components */
+    
+/* DARKER MODE - Lighter palette */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+    /* Nav bar */
+    --md-primary-fg-color: #9fffe0;
+
+    /* Text: nav bar menu, dark and light mode toggle */
+    --md-primary-bg-color: #343d5f;
+
+    /* Body color */
+    --md-default-bg-color: #343d5f;
+    /* Body text color */
+    --md-default-fg-color: #FCFCFC;
+
+    /* Gradient */
+    --md-primary-fg-color--light: #9fffe0;
     --md-primary-fg-color--lighter: #ffffff;
     --md-primary-fg-color--lightest: #ffffff;
-    --md-primary-bg-color: #212121;
-    --md-primary-bg-color--light: #424242;
+ 
+    /* Link color */
+    --md-typeset-a-color: #A3FFD5;
+
+}
+
+/* DARK MODE ONLY - For page titles */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset h1 {
+    color: #d1d5db;
+}
+
+/* DARK MODE ONLY - hover over links contained inline, or in linked headings */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset a:hover{
+    color: #8FD4FF;
+}
+
+/* DARK MODE ONLY - Footer */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-footer {
+    background-color: #5C6998;
+    color: var(--md-typeset-a-color);
+}
+
+/* DARK MODE ONLY - Tag and back to the top hover state */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-tag[href]:hover, .md-top:focus, .md-top:hover {
+    background-color: #0F1316;
+    color: #2A82C4;
+}
+
+/* DARK MODE ONLY - Tag and back to the top before hover state */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-tag[href], .md-top, .md-typeset .md-tag {
+    background-color: var(--md-primary-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+/* DARK MODE ONLY - Tag icon before hover state */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-tag-icon:before {
+    background-color: var(--md-primary-bg-color);
 }
