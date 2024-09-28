@@ -12,6 +12,8 @@ tags:
 
 CS50 is Harvard's [Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) course. I first heard about it in 2020 during the pandemic lockdowns when there wasn't much to do at home. I tried taking the course then but didn't fully commit. I lost interest after the first week, mainly because I didn't have a good reason to learn computer science other than boredom.
 
+<!-- more -->
+
 Fast forward to 2024, I've tackled some large and complex software documentation projects. My favorite part of each project has been collaborating with Software Engineers. There's nothing quite like learning from those who build the products! As a Technical Writer, before I write, I must research, either using online resources or interviewing engineers. This finally gave me the motivation to complete the CS50 course. I wanted to understand the world around me better. How do words on our screens build applications? I thought this could help me become a better Technical Writer and ask better questions when working with developers.
 
 ## The struggle was real

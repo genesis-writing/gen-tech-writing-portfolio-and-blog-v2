@@ -11,6 +11,8 @@ tags:
 
 When I originally added a Google tag to my `mkdocs.yml` file, I thought everything was fine and dandy. After reading the docs, I added the string `G-XXXXXXXXXX`, and away I went. But later, I realized I should be protecting the tag by using an environment variable. So, I removed it and forgot about it for a while.
 
+<!-- more -->
+
 But now we're back! The leaves are falling, the sun is setting earlier, and it's time to roast some pumpkin seeds. So I thought, hey, I should go back and add Google Analytics with an environment variable. Here we are....
 
 ## My Approach
