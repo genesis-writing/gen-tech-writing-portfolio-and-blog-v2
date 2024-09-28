@@ -14,7 +14,7 @@ theme:
 
   # Customize theme even further
   extra_css:
-    - extra.css
+    - stylesheets/extra.css
 
   palette:
     # Palette toggle for light mode
@@ -91,6 +91,8 @@ plugins:
       post_date_format: full
       # Display reading time of a post
       post_readtime: true
+      # Display post titles in a table of contents
+      blog_toc: true
   - tags:
       # Tag index, makes each tag clickable
       tags_file: tags.md
@@ -202,16 +204,6 @@ nav:
   # Blog posts
   - Blog:
     - blog/index.md
-    - Posts:
-      - Environment Variable for Google Analytics: blog/posts/2024-09-26-eigth-blog-post.md
-      - Completing CS50: blog/posts/2024-07-25-seventh-blog-post.md
-      - Wordpress Transition: blog/posts/2024-07-09-sixth-blog-post.md
-      - YAML and Python: blog/posts/2024-07-08-fifth-blog-post.md
-      - MkDocs is Amazing: blog/posts/2024-07-07-fourth-blog-post.md
-      - Second post: blog/posts/2024-07-04-second-blog-post.md
-      - Mermaid?: blog/posts/2024-07-05-third-blog-post.md
-      - First post: blog/posts/2024-07-03-first-blog-post.md
-    
       
       
       
