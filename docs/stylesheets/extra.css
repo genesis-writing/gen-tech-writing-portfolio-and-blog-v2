@@ -53,6 +53,12 @@
     background-color: var(--md-primary-bg-color);
 }
 
+/* LIGHT MODE ONLY - Clipboard icon within code block, upon hover */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-clipboard:focus,.md-clipboard:hover {
+    color: #2A82C4;
+}
+
+
 
 
 
@@ -116,11 +122,24 @@
     background-color: var(--md-primary-bg-color);
 }
 
+/* DARK MODE ONLY - Clipboard icon within code block, upon hover */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-clipboard:focus,.md-clipboard:hover {
+    color: #8FD4FF;
+}
+
+
+
+
 
 /* Components for both light and dark modes */
 
-/* DARK MODE ONLY - Inline code formatting with backticks */
+/* Inline code formatting with backticks */
 .md-typeset code {
     background-color: var(--md-default-fg-color);
+    color: var(--md-primary-bg-color);
+}
+
+/* Clipboard icon within code block, before hover */
+.md-clipboard {
     color: var(--md-primary-bg-color);
 }
