@@ -17,6 +17,6 @@ I also learned that I need to update my `requirements.txt` file whenever I add n
 
 Oh yeah, here's the command that I didn't run before my build to update my file:
 
-``` py
+```bash
 pip3 freeze > requirements.txt
 ```

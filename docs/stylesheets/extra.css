@@ -53,13 +53,15 @@
     background-color: var(--md-primary-bg-color);
 }
 
-/* LIGHT MODE ONLY - Clipboard icon within code block, upon hover */
-[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-clipboard:focus,.md-clipboard:hover {
-    color: #2A82C4;
+/* LIGHT MODE ONLY - Clipoard icon before hover state */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-typeset .md-clipboard {
+    color: var(--md-primary-fg-color);
 }
 
-
-
+/* LIGHT MODE ONLY - Clipoard icon upon hover state */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-clipboard:hover {
+    color: #2A82C4;
+}
 
 
 
@@ -95,7 +97,7 @@
 }
 
 /* DARK MODE ONLY - hover over links contained inline, or in linked headings */
-[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset a:hover{
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset a:hover {
     color: #8FD4FF;
 }
 
@@ -117,29 +119,15 @@
     color: var(--md-primary-bg-color);
 }
 
-/* DARK MODE ONLY - Tag icon before hover state */
-[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-tag-icon:before {
-    background-color: var(--md-primary-bg-color);
+/* DARK MODE ONLY - Clipoard icon before hover state */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-clipboard {
+    color: var(--md-primary-fg-color);
 }
 
-/* DARK MODE ONLY - Clipboard icon within code block, upon hover */
-[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-clipboard:focus,.md-clipboard:hover {
+/* DARK MODE ONLY - Clipoard icon upon hover state */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-clipboard:hover {
     color: #8FD4FF;
 }
 
 
-
-
-
 /* Components for both light and dark modes */
-
-/* Inline code formatting with backticks */
-.md-typeset code {
-    background-color: var(--md-default-fg-color);
-    color: var(--md-primary-bg-color);
-}
-
-/* Clipboard icon within code block, before hover */
-.md-clipboard {
-    color: var(--md-primary-bg-color);
-}
