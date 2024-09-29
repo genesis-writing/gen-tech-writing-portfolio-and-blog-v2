@@ -58,10 +58,16 @@
     color: var(--md-primary-fg-color);
 }
 
-/* LIGHT MODE ONLY - Clipoard icon upon hover state */
+/* LIGHT MODE ONLY - Clipoard icon, table of contents titles upon hover state */
 [data-md-color-scheme="default"][data-md-color-primary="custom"] .md-clipboard:hover {
     color: #2A82C4;
 }
+
+/* DARK MODE ONLY - Table of contents elements upon hover state */
+[data-md-color-scheme="default"][data-md-color-primary="custom"] .md-ellipsis:hover, .md-nav__link[for]:focus, .md-nav__link[for]:hover, .md-nav__link[href]:focus, .md-nav__link[href]:hover {
+    color: #2A82C4;
+}
+
 
 
 
@@ -126,6 +132,11 @@
 
 /* DARK MODE ONLY - Clipoard icon upon hover state */
 [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-clipboard:hover {
+    color: #8FD4FF;
+}
+
+/* DARK MODE ONLY - Table of contents elements upon hover state */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-ellipsis:hover, .md-nav__link[for]:focus, .md-nav__link[for]:hover, .md-nav__link[href]:focus, .md-nav__link[href]:hover {
     color: #8FD4FF;
 }
 
