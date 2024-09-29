@@ -48,11 +48,14 @@ theme:
     # Top-level sections rendered in a menu layer below header
     - navigation.tabs
 
+    # Lock nav tabs when user scrolls down a page
+    - navigation.tabs.sticky
+
     # Top-level sections rendered as groups in sidebar
     - navigation.sections
 
-    # Ensure toc always rendered on the left
-    - toc.integrate
+    # Ensure toc always rendered on the left, within the nav sections
+    #- toc.integrate
     
     # Display the likeliest completion in search bar
     - search.suggest

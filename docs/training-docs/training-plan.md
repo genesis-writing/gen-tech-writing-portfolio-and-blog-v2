@@ -10,7 +10,7 @@ tags:
 
 This document features an employee training plan template. Trainers can use this for new hires or existing team members. The plan follows a three-part structure: header, employee information, and module table.
 
-For the post-training stage, refer to the [Employee Training Evaluation Profile](employee-training-evaluation-profile.md) page.
+For the post-training stage, refer to the <u>[Employee Training Evaluation Profile](employee-training-evaluation-profile.md)</u> page.
 
 ## **Plan**
 

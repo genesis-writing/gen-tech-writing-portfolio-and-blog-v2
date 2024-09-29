@@ -9,7 +9,7 @@ tags:
 ## **Overview**
 
 This recipe helps you cook two portions of shrimp fried rice. It’s referenced
-from an Instagram video titled “[How to Make Shrimp Fried Rice](https://www.instagram.com/p/CBT2d8-gDBn/?utm_source=ig_web_copy_link)”
+from an Instagram video titled <u>“[How to Make Shrimp Fried Rice](https://www.instagram.com/p/CBT2d8-gDBn/?utm_source=ig_web_copy_link)”</u>
 by @chefchrischo.
 
 ## **Requirements**
@@ -57,5 +57,5 @@ by @chefchrischo.
   14. Serve!
 
 ![Bowl of rice](../assets/img/fun-images/pexels-photo-1630495.jpeg)Photo by Ricardo Esquivel on
-[Pexels.com](https://www.pexels.com/photo/food-on-bowl-1630495/)
+<u>[Pexels.com](https://www.pexels.com/photo/food-on-bowl-1630495/)</u>
 

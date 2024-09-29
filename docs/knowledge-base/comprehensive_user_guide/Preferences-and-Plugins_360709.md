@@ -18,17 +18,17 @@ This general section contains various settings for customizing your recording ex
 
   1. **Show cursor**: Hide or display the mouse cursor within your recordings.
   2. **Highlight clicks**: If "Show cursor" is enabled, highlight clicks made during a recording by surrounding the cursor with a circle.
-![Circle surrounding cursor](../../assets/img/Preferences-and-Plugins_360709_images/360730.jpg)
-  1. **Keyboard shortcuts**: Set up keyboard shortcuts to access Kap's toolbar instantly. Choose from predetermined options or create one from scratch (e.g., ⌘ ⌥ X).
-![Configured keyboard shortcut](../../assets/img/Preferences-and-Plugins_360709_images/262587.png)
-  1. **Loop exports**: Infinitely loop export files.
-  2. **Audio recording**: Record audio from an input device. Enable this to grant Kap access to the microphone and select an input device like your Mac's microphone or a headset.
-![Kap requesting access to microphone](../../assets/img/Preferences-and-Plugins_360709_images/360742.png)
-  1. **Capture frame rate**: Change the FPS with this option; increased FPS impacts performance and file size. Options: 30 FPS or 60 FPS.
-  2. **Allow analytics**: Send anonymous usage stats to the developer to help improve Kap.
-  3. **Start automatically**: Launch Kap upon the system's startup.
-  4. **Save to**: Choose the destination folder for recording exports.
-  5.  **Lossy GIF compression**: Enable this to ensure a smaller file size, with minor quality degradation.
+     1. ![Circle surrounding cursor](../../assets/img/Preferences-and-Plugins_360709_images/360730.jpg)
+  3. **Keyboard shortcuts**: Set up keyboard shortcuts to access Kap's toolbar instantly. Choose from predetermined options or create one from scratch (e.g., ⌘ ⌥ X).
+     1. ![Configured keyboard shortcut](../../assets/img/Preferences-and-Plugins_360709_images/262587.png)
+  4. **Loop exports**: Infinitely loop export files.
+  5. **Audio recording**: Record audio from an input device. Enable this to grant Kap access to the microphone and select an input device like your Mac's microphone or a headset.
+     1. ![Kap requesting access to microphone](../../assets/img/Preferences-and-Plugins_360709_images/360742.png)
+  6.  **Capture frame rate**: Change the FPS with this option; increased FPS impacts performance and file size. Options: 30 FPS or 60 FPS.
+  7. **Allow analytics**: Send anonymous usage stats to the developer to help improve Kap.
+  8. **Start automatically**: Launch Kap upon the system's startup.
+  9.  **Save to**: Choose the destination folder for recording exports.
+  10.  **Lossy GIF compression**: Enable this to ensure a smaller file size, with minor quality degradation.
 
 ### Plugins
 

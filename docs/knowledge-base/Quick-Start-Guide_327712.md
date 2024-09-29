@@ -8,14 +8,14 @@ tags:
 
 ## **Purpose**
 
-This guide helps you quickly get up and running with the Kap app. For more details, refer to the [comprehensive user guide](./comprehensive_user_guide/Tool-Bar_393330.md).
+This guide helps you quickly get up and running with the Kap app. For more details, refer to the <u>[comprehensive user guide](./comprehensive_user_guide/Tool-Bar_393330.md)</u>.
 
 ## **Requirements**
 
 Before you begin, ensure you have:
 
-  1. Installed the application (refer to the [installation guide](./setting_up_kap/Installation-Guide_327695.md)).
-  2. Allowed the Kap application to record your screen (refer to the [screen recording access guide](./setting_up_kap/Screen-Recording-Permission-Guide_393254.md)).
+  1. Installed the application (refer to the <u>[installation guide](./setting_up_kap/Installation-Guide_327695.md)</u>).
+  2. Allowed the Kap application to record your screen (refer to the <u>[screen recording access guide](./setting_up_kap/Screen-Recording-Permission-Guide_393254.md)</u>).
 
 !!! tip
 
@@ -66,4 +66,4 @@ Set size parameters, frames per second, file format, and export location. Click 
 
 ## **Preferences and Plugins**
 
-Modify Kap's preferences and enable plugins to customize the app to your needs. The keyboard shortcut to the app's preferences is ⌘ , (command + comma). For more information, refer to the [preferences and plugins guide](./comprehensive_user_guide/Preferences-and-Plugins_360709.md).
+Modify Kap's preferences and enable plugins to customize the app to your needs. The keyboard shortcut to the app's preferences is ⌘ , (command + comma). For more information, refer to the <u>[preferences and plugins guide](./comprehensive_user_guide/Preferences-and-Plugins_360709.md)</u>.

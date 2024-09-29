@@ -10,7 +10,7 @@ tags:
 
 This document features an employee training evaluation profile used by trainers after training is complete. It showcases observations made during sessions, providing qualitative data to detect patterns of efficacy or deficiency in a training plan.
 
-For an example of a training plan, visit the [Training Plan](training-plan.md) page.
+For an example of a training plan, visit the <u>[Training Plan](training-plan.md)</u> page.
 
 ## **Evaluation Profile**
 

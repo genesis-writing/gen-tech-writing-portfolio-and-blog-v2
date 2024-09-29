@@ -12,7 +12,7 @@ Welcome to the wiki portion of my portfolio. I am a big fan of creating wiki doc
 
 ## **Project Overview – Kap**
 
-I decided to build a user guide for [Kap](https://getkap.co/), an open-source screen recording application I’ve used for years. Despite its simplicity, I had to navigate its interface without user-oriented documentation. Thus, this
+I decided to build a user guide for <u>[Kap](https://getkap.co/)</u>, an open-source screen recording application I’ve used for years. Despite its simplicity, I had to navigate its interface without user-oriented documentation. Thus, this
 project was born.
 
 ## **Content Structure**

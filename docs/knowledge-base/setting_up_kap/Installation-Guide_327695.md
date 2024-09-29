@@ -14,7 +14,7 @@ This guide helps you install the Kap application on your Mac.
 
 ### Step 1
 
-Visit the [Kap homepage](https://getkap.co/) and click **“GET KAP”**.
+Visit the <u>[Kap homepage](https://getkap.co/)</u> and click **“GET KAP”**.
 
 ![Kap homepage](../../assets/img/Installation-Guide_327695_images/393231.jpg)
 

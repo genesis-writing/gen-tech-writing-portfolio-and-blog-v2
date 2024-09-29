@@ -64,9 +64,9 @@ Capture your entire screen with this option.
 Find miscellaneous items under this option:
 
   1. **About Kap**: Displays the app version installed on your Mac.
-  2. **Preferences**: Modify general settings or enable/disable plugins. Refer to the [preferences and plugins guide](Preferences-and-Plugins_360709.md) for more details. The keyboard shortcut is ⌘ , (command + comma).
-  3. **Plugins**: Enable or disable configurable plugins. Refer to the [preferences and plugins guide](Preferences-and-Plugins_360709.md) for more information. The keyboard shortcut is ⌘ , (command + comma).
+  2. **Preferences**: Modify general settings or enable/disable plugins. Refer to the <u>[preferences and plugins guide](Preferences-and-Plugins_360709.md)</u> for more details. The keyboard shortcut is ⌘ , (command + comma).
+  3. **Plugins**: Enable or disable configurable plugins. Refer to the <u>[preferences and plugins guide](Preferences-and-Plugins_360709.md)</u> for more information. The keyboard shortcut is ⌘ , (command + comma).
   4. **Open Video**: Open a video file. The keyboard shortcut is ⌘ O (command + O).
   5. **Export History**: List the history of the exported recordings within the current session.
-  6. **Send Feedback**: Open an issue on GitHub. Review existing issues to avoid duplicates. You can also check the [developer's issues list.](https://github.com/wulkano/Kap/issues)
+  6. **Send Feedback**: Open an issue on GitHub. Review existing issues to avoid duplicates. You can also check the <u>[developer's issues list.](https://github.com/wulkano/Kap/issues)</u>
   7. **Quit Kap**: Close the application. The keyboard shortcut is ⌘ Q (command + Q).

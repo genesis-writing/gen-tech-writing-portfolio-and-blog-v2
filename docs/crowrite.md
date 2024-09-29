@@ -6,7 +6,7 @@ tags:
 
 # Crowrite - Final Project for CS50x
 
-Crowrite is a Flask application that assists Technical Writers with their day-to-day tasks. I created this application as my final project for [Harvard CS50’s Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) course. The name "Crowrite" combines my love for birds and writing, and I think it sounds neat 😎.
+Crowrite is a Flask application that assists Technical Writers with their day-to-day tasks. I created this application as my final project for <u>[Harvard CS50’s Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)</u> course. The name "Crowrite" combines my love for birds and writing, and I think it sounds neat 😎.
 
 In a nutshell, here's how I built it:
 

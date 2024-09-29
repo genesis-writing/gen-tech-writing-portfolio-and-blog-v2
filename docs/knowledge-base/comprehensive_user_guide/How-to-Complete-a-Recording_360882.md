@@ -42,6 +42,6 @@ Click the stop button in the menu bar to end the session.
 
 ### Step 5
 
-After the recording ends, an editor window will display. For more details on the editor’s options, refer to the [editor guide](Editor_262804.md).
+After the recording ends, an editor window will display. For more details on the editor’s options, refer to the <u>[editor guide](Editor_262804.md)</u>.
 
 ![Editor window](../../assets/img/How-to-Complete-a-Recording_360882_images/262817.jpg)
