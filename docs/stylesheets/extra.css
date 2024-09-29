@@ -175,7 +175,7 @@
 
 /* Table of contents scroll bar */
 .md-sidebar__scrollwrap:focus-within,.md-sidebar__scrollwrap:hover {
-    scrollbar-color: var(--md-primary-fg-color)
+    scrollbar-color: var(--md-primary-fg-color) #0000
 }
 
 .md-sidebar__scrollwrap:focus-within::-webkit-scrollbar-thumb,.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb {
