@@ -164,3 +164,24 @@
         color: #8FD4FF;
     }
 }
+
+
+
+
+
+
+
+/* BOTH LIGHT AND DARK MODE components */
+
+/* Table of contents scroll bar */
+.md-sidebar__scrollwrap:focus-within,.md-sidebar__scrollwrap:hover {
+    scrollbar-color: var(--md-primary-fg-color)
+}
+
+.md-sidebar__scrollwrap:focus-within::-webkit-scrollbar-thumb,.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb {
+    background-color: var(--md-primary-fg-color)
+}
+
+.md-sidebar__scrollwrap:focus-within::-webkit-scrollbar-thumb:hover,.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb:hover {
+    background-color: var(--md-primary-fg-color)
+}
