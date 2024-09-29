@@ -63,10 +63,21 @@
     color: #2A82C4;
 }
 
-/* DARK MODE ONLY - Table of contents elements upon hover state */
+/* LIGHT MODE ONLY - Table of contents elements upon hover state */
 [data-md-color-scheme="default"][data-md-color-primary="custom"] .md-ellipsis:hover, .md-nav__link[for]:focus, .md-nav__link[for]:hover, .md-nav__link[href]:focus, .md-nav__link[href]:hover {
     color: #2A82C4;
 }
+
+/* LIGHT MODE ONLY - Sidebar elements upon hover state - smaller display */
+/* NEED TO FIX */
+@media screen and (max-width: 76.2344em) {
+    [data-md-color-scheme="default"][data-md-color-primary="custom"] .md-nav--primary .md-nav__item--active>.md-nav__link:focus,
+    [data-md-color-scheme="default"][data-md-color-primary="custom"] .md-nav--primary .md-nav__item--active>.md-nav__link:hover,
+    [data-md-color-scheme="default"][data-md-color-primary="custom"] .md-nav__link[for]:focus {
+        color: #2A82C4;
+    }
+}
+
 
 
 
@@ -145,5 +156,11 @@
     color: #8FD4FF;
 }
 
-
-/* Components for both light and dark modes */
+/* DARK MODE ONLY - Sidebar elements upon hover state - smaller display */
+@media screen and (max-width: 76.2344em) {
+    [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-nav--primary .md-nav__item--active>.md-nav__link:focus,
+    [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-nav--primary .md-nav__item--active>.md-nav__link:hover,
+    [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-nav__link[for]:focus {
+        color: #8FD4FF;
+    }
+}
