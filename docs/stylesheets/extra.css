@@ -125,6 +125,11 @@
     color: var(--md-primary-bg-color);
 }
 
+/* DARK MODE ONLY - Tag icon before hover state */
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-tag-icon:before {
+    background-color: var(--md-primary-bg-color);
+}
+
 /* DARK MODE ONLY - Clipoard icon before hover state */
 [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-typeset .md-clipboard {
     color: var(--md-primary-fg-color);
