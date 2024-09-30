@@ -66,4 +66,4 @@ Set size parameters, frames per second, file format, and export location. Click 
 
 ## **Preferences and Plugins**
 
-Modify Kap's preferences and enable plugins to customize the app to your needs. The keyboard shortcut to the app's preferences is ⌘ , (command + comma). For more information, refer to the <u>[preferences and plugins guide](./comprehensive_user_guide/Preferences-and-Plugins_360709.md)</u>.
+Modify Kap's preferences and enable plugins to customize the app to your needs. The keyboard shortcut to the app's preferences is ++cmd+comma++ (command + comma). For more information, refer to the <u>[preferences and plugins guide](./comprehensive_user_guide/Preferences-and-Plugins_360709.md)</u>.

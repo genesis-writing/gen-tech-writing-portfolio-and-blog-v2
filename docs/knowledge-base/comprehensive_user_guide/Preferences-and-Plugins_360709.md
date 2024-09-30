@@ -8,7 +8,7 @@ tags:
 
 ## **Purpose**
 
-This guide highlights the available options within the app's preferences and shows you how to enable plugins to enhance your user experience. The keyboard shortcut for preferences or plugins is ⌘ , (command + key).
+This guide highlights the available options within the app's preferences and shows you how to enable plugins to enhance your user experience. The keyboard shortcut for preferences or plugins is ++cmd+comma++ (command + commma).
 
 ## **Preferences**
 
@@ -19,7 +19,7 @@ This general section contains various settings for customizing your recording ex
   1. **Show cursor**: Hide or display the mouse cursor within your recordings.
   2. **Highlight clicks**: If "Show cursor" is enabled, highlight clicks made during a recording by surrounding the cursor with a circle.
      1. ![Circle surrounding cursor](../../assets/img/Preferences-and-Plugins_360709_images/360730.jpg)
-  3. **Keyboard shortcuts**: Set up keyboard shortcuts to access Kap's toolbar instantly. Choose from predetermined options or create one from scratch (e.g., ⌘ ⌥ X).
+  3. **Keyboard shortcuts**: Set up keyboard shortcuts to access Kap's toolbar instantly. Choose from predetermined options or create one from scratch (e.g., ++cmd+opt+x++ (command + option + X)).
      1. ![Configured keyboard shortcut](../../assets/img/Preferences-and-Plugins_360709_images/262587.png)
   4. **Loop exports**: Infinitely loop export files.
   5. **Audio recording**: Record audio from an input device. Enable this to grant Kap access to the microphone and select an input device like your Mac's microphone or a headset.
