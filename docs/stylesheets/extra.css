@@ -185,3 +185,10 @@
 .md-sidebar__scrollwrap:focus-within::-webkit-scrollbar-thumb:hover,.md-sidebar__scrollwrap:hover::-webkit-scrollbar-thumb:hover {
     background-color: var(--md-primary-fg-color)
 }
+
+/* Google Analytics cookies consent buttons */
+.md-typeset .md-button:focus, .md-typeset .md-button:hover {
+    background-color: #ff6b6b;
+    border-color: #ff6b6b;
+    color: var(--md-accent-bg-color);
+}
