@@ -178,7 +178,12 @@ markdown_extensions:
   - pymdownx.details
 
   # Allows nesting admonitions, tabs, lists and all other elements
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+            # Allows mermaid.js diagrams
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
 
   #  enables syntax highlighting on code blocks and inline code blocks,
   # and allows to include source code directly from other files
