@@ -9,7 +9,7 @@ theme:
   language: en
 
   # Header and browser tab logo
-  logo: assets/img/favicon.ico
+  logo: assets/logo.png
   favicon: assets/img/favicon.ico
 
   palette:
@@ -143,6 +143,14 @@ extra_css:
 
 # Markdown extensions
 markdown_extensions:
+
+  # Use icons and emojis
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
   # For callouts
   - admonition
 

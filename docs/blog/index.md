@@ -1,4 +1,4 @@
-# Hi there! 👋🏾
+# Hi there! :material-robot-excited:
 
 Here, you'll find posts about all the cool things I've been learning on my never-ending journey to becoming a great Technical Writer.
 
