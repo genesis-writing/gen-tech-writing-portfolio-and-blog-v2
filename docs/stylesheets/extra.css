@@ -1,3 +1,17 @@
+/* adding the drop shadow,margin and keeping the images at 50 viewport width */
+a.glightbox img {
+    max-width: 50vw;
+    box-shadow: 5px 5px 13px rgba(0, 0, 0, 0.08);
+    margin-bottom: 1rem;
+}
+
+/* 100 viewport width on smaller screens */
+@media only screen and (max-width : 600px) {
+    a.glightbox img {
+        max-width: 100%;
+    }
+}
+
 /* LIGHT MODE components */
 [data-md-color-scheme="default"][data-md-color-primary="custom"] {
 /* LIGHT MODE - Darker palette */
