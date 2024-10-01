@@ -78,6 +78,14 @@
     }
 }
 
+/* LIGHT MODE ONLY - Palette for Mermaid diagram */
+
+[data-md-color-scheme="default"][data-md-color-primary="custom"] {
+    --md-mermaid-node-fg-color: #2A82C4
+    ;
+    --md-mermaid-sequence-actor-line-color: #8FD4FF;
+}
+
 
 
 
@@ -163,6 +171,18 @@
     [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-nav__link[for]:focus {
         color: #8FD4FF;
     }
+}
+
+/* DARK MODE ONLY - Palette for Mermaid diagram */
+
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+    --md-mermaid-edge-color: white;
+    --md-mermaid-node-bg-color: #333333;
+    --md-mermaid-node-fg-color: #9fffe0
+    ;
+    --md-mermaid-label-bg-color: #333333;
+    --md-mermaid-label-fg-color: white;
+    --md-mermaid-sequence-actor-line-color: #8FD4FF;
 }
 
 
