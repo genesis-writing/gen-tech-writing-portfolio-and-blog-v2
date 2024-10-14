@@ -2,3 +2,9 @@
 [build]
   command = "mkdocs build"
   publish = "site"
+
+[[redirects]]
+  from = "https://genesistechwriter.netlify.app/*"
+  to = "https://genwrites.com/:splat"
+  status = 301
+  force = true
