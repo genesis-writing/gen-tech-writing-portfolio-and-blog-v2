@@ -1,6 +1,6 @@
 # Site info
 site_name: Genesis Writes
-site_url: https://genesistechwriter.netlify.app
+site_url: https://genwrites.com/ #custom, primary domain
 
 # Theme with Material for MkDocs
 theme:
