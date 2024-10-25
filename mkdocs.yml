@@ -142,8 +142,12 @@ extra:
       track how my portfolio performs over time. With your consent, you’re
       helping me improve how I present my work and understand how
       visitors interact with it.
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: false  # User must explicitly opt-in
 
-#For Footer, include option for visitors to update cookie consent form
+# For Footer, include option for visitors to update cookie consent form
 copyright: >
   Copyright &copy; 2024 Genesis Sorto - Technical Writer -
   <a href="#__consent">Change cookie settings</a>
