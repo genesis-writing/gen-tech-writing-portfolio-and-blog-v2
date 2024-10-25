@@ -138,14 +138,12 @@ extra:
   consent:
     title: Google Analytics Consent
     description: >- 
-      I use cookies to recognize your visits and preferences, as well as to
-      track how my portfolio performs over time. With your consent, you’re
-      helping me improve how I present my work and understand how
-      visitors interact with it.
-    cookies:
-      analytics:
-        name: Google Analytics
-        checked: false  # User must explicitly opt-in
+      I use cookies to recognize your visits and preferences, and to track how
+      my portfolio performs over time. If you leave Google Analytics checked
+      and click 'Accept,' you’ll help me understand how visitors interact with
+      my work. To opt out, simply uncheck the circle before clicking 'Accept'.
+    actions:
+      - accept
 
 # For Footer, include option for visitors to update cookie consent form
 copyright: >
