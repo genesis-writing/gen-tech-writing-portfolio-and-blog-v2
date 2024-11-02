@@ -50,6 +50,14 @@ a.glightbox img {
     color: var(--md-primary-fg-color);
 }
 
+/* LIGHT MODE ONLY - Repo link in shrunken sidebar */
+@media screen and (max-width: 59.9844em) {
+    [data-md-color-scheme="default"][data-md-color-primary="custom"] .md-nav__source {
+        background-color: #c3c7da;
+        color: #343d5f;
+    }
+}
+
 /* LIGHT MODE ONLY - Tag and back to the top hover state */
 [data-md-color-scheme="default"][data-md-color-primary="custom"] .md-typeset .md-tag[href]:hover, .md-top:focus, .md-top:hover {
     background-color: #0F1316;
@@ -144,6 +152,14 @@ a.glightbox img {
 [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-footer {
     background-color: #5C6998;
     color: var(--md-typeset-a-color);
+}
+
+/* DARK MODE ONLY - Repo link in shrunken sidebar */
+@media screen and (max-width: 59.9844em) {
+    [data-md-color-scheme="slate"][data-md-color-primary="custom"] .md-nav__source {
+        background-color: #5C6998;
+        color: var(--md-typeset-a-color);
+    }
 }
 
 /* DARK MODE ONLY - Tag and back to the top hover state */

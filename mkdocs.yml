@@ -2,6 +2,10 @@
 site_name: Genesis Writes
 site_url: https://genwrites.com/ #custom, primary domain
 
+# Repository
+repo_name: genesis-writing/gen-tech-writing-portfolio-and-blog-v2
+repo_url: https://github.com/genesis-writing/gen-tech-writing-portfolio-and-blog-v2
+
 # Theme with Material for MkDocs
 theme:
   name: material
@@ -30,8 +34,6 @@ theme:
         name: Switch to dark mode
   
   features:
-
-    - content.action.view
 
     # Enable copying code
     - content.code.copy
@@ -75,6 +77,9 @@ theme:
       fun: fontawesome/solid/face-smile
       programming: fontawesome/solid/file-code
       blog: fontawesome/brands/microblog
+    
+    # Icon for repo link
+    repo: fontawesome/brands/github
   
 # Power up our docs!
 plugins:
