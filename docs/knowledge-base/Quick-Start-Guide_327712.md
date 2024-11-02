@@ -1,7 +1,7 @@
 ---
 title: Quick Start Guide
 tags:
-  - knowledge-base
+  - Knowledge Base
 ---
 
 # Quick Start Guide

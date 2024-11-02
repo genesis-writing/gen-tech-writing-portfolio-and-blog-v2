@@ -1,7 +1,7 @@
 ---
 title: Toolbar
 tags:
-  - knowledge-base
+  - Knowledge Base
 ---
 
 # Tool Bar

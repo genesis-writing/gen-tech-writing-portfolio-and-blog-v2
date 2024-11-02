@@ -4,7 +4,7 @@ description: Documenting my steps in adding my Google tag to my site.
 date: 2024-09-26
 authors: [genesis-writing]
 tags:
-  - blog
+  - Blog
 ---
 
 # A Learning Moment

@@ -4,7 +4,7 @@ description: Reflections on moving from WordPress to a static site generator
 date: 2024-07-09
 authors: [genesis-writing]
 tags:
-  - blog
+  - Blog
 ---
 
 # Migrating from Wordpress

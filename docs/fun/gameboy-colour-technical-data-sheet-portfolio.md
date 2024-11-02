@@ -1,7 +1,7 @@
 ---
 title: Gameboy Colour Technical Data Sheet
 tags:
-  - fun
+  - Fun
 ---
 
 # Gameboy Colour Technical Data Sheet

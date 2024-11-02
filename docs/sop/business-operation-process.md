@@ -1,7 +1,7 @@
 ---
 title: Business Operation Process
 tags:
-  - sop
+  - SOP
 ---
 
 # Business Operation Process

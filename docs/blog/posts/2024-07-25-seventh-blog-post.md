@@ -5,7 +5,7 @@ date: 2024-07-25
 authors: [genesis-writing]
 pin: true
 tags:
-  - blog
+  - Blog
 ---
 
 # I did it! I completed CS50!

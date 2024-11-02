@@ -71,8 +71,9 @@ theme:
     tag:
       knowledge-base: fontawesome/solid/brain
       sop: fontawesome/solid/users-gear
-      training: fontawesome/solid/lightbulb
+      docs-as-code: fontawesome/solid/code-commit
       fun: fontawesome/solid/face-smile
+      programming: fontawesome/solid/file-code
       blog: fontawesome/brands/microblog
   
 # Power up our docs!
@@ -124,10 +125,10 @@ extra:
   tags:
     Knowledge Base: knowledge-base
     SOP: sop
-    Training: training
     Fun: fun
     Blog: blog
     Programming: programming
+    Docs as code: docs-as-code
 
   # Google Analytics
   analytics:
@@ -223,12 +224,6 @@ nav:
   - SOP:
     - SOP Intro: sop/SOP-intro.md
     - Business Operation Process: sop/business-operation-process.md
-  
-  # Training portfolio pieces
-  - Training:
-    - Training Docs Intro: training-docs/training-docs-intro.md
-    - Training Plan: training-docs/training-plan.md
-    - Employee Training Evaluation Profile: training-docs/employee-training-evaluation-profile.md
   
   # Fun portfolio pieces
   - Fun:

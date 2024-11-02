@@ -1,7 +1,7 @@
 ---
 title: Project Info
 tags:
-  - knowledge-base
+  - Knowledge Base
 ---
 
 # Project Info

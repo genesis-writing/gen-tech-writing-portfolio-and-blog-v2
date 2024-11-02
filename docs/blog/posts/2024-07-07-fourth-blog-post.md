@@ -4,7 +4,7 @@ description: Sharing my initial thoughts about MkDocs
 date: 2024-07-07
 authors: [genesis-writing]
 tags:
-  - blog
+  - Blog
 ---
 
 # Initial Thoughts on MkDocs

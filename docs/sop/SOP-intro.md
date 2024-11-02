@@ -1,7 +1,7 @@
 ---
 title: SOP Intro
 tags:
-  - sop
+  - SOP
 ---
 
 # SOP

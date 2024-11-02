@@ -4,7 +4,7 @@ description: Documenting the first time I created a Mermaid diagram in Markdown.
 date: 2024-10-01
 authors: [genesis-writing]
 tags:
-  - blog
+  - Blog
 ---
 
 # My First Mermaid Diagram :simple-mermaid:

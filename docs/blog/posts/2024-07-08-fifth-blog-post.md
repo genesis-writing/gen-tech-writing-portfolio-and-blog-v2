@@ -4,7 +4,7 @@ description: Sharing key lessons I learned about YAML and Python
 date: 2024-07-08
 authors: [genesis-writing]
 tags:
-  - blog
+  - Blog
 ---
 
 # Important Lessons
