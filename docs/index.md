@@ -9,7 +9,7 @@ hide:
 
 ## **About Me**
 
-I’m Genesis S, a passionate Technical Writer based in Canada with experience
+I’m Genesis Sorto, a passionate Technical Writer based in Canada with experience
 in software, telecommunications, and biotechnology. My expertise lies in
 crafting user-friendly technical documents that bridge the gap between complex
 concepts and end-users.

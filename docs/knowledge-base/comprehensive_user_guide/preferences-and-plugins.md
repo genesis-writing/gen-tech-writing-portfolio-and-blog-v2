@@ -18,12 +18,12 @@ This general section contains various settings for customizing your recording ex
 
   1. **Show cursor**: Hide or display the mouse cursor within your recordings.
   2. **Highlight clicks**: If "Show cursor" is enabled, highlight clicks made during a recording by surrounding the cursor with a circle.
-     1. ![Circle surrounding cursor](../../assets/img/Preferences-and-Plugins_360709_images/360730.jpg)
+     1. ![Circle surrounding cursor](../../assets/img/preferences-and-plugins_images/360730.jpg)
   3. **Keyboard shortcuts**: Set up keyboard shortcuts to access Kap's toolbar instantly. Choose from predetermined options or create one from scratch (e.g., ++cmd+opt+x++ (command + option + X)).
-     1. ![Configured keyboard shortcut](../../assets/img/Preferences-and-Plugins_360709_images/262587.png)
+     1. ![Configured keyboard shortcut](../../assets/img/preferences-and-plugins_images/262587.png)
   4. **Loop exports**: Infinitely loop export files.
   5. **Audio recording**: Record audio from an input device. Enable this to grant Kap access to the microphone and select an input device like your Mac's microphone or a headset.
-     1. ![Kap requesting access to microphone](../../assets/img/Preferences-and-Plugins_360709_images/360742.png)
+     1. ![Kap requesting access to microphone](../../assets/img/preferences-and-plugins_images/360742.png)
   6.  **Capture frame rate**: Change the FPS with this option; increased FPS impacts performance and file size. Options: 30 FPS or 60 FPS.
   7. **Allow analytics**: Send anonymous usage stats to the developer to help improve Kap.
   8. **Start automatically**: Launch Kap upon the system's startup.
@@ -68,6 +68,6 @@ This section lists available plugins you can enable with a toggle button.
 
 Whenever you enable a plugin, it will be listed in this section. Use the pencil icon to configure each plugin or disable it with the toggle.
 
-![Plugin enable toggle](../../assets/img/Preferences-and-Plugins_360709_images/328008.png)
+![Plugin enable toggle](../../assets/img/preferences-and-plugins_images/328008.png)
 
 

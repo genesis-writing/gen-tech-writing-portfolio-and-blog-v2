@@ -20,7 +20,7 @@ This guide highlights the available options in the Kap editor. The default optio
   * **F**: Export location selector
   * **G**: Conversion
 
-![Labelled editor options](../../assets/img/Editor_262804_images/393689.jpg)
+![Labelled editor options](../../assets/img/editor_images/393689.jpg)
 
 ## Options Overview
 
@@ -44,7 +44,7 @@ Customize the size by a percentage value. Available options are:
 
 Control the exported recording’s frames per second. The lowest value is five, and the highest is 30. Input a number or slide the selector to adjust.
 
-![Frames per second slider](../../assets/img/Editor_262804_images/393708.png)
+![Frames per second slider](../../assets/img/editor_images/393708.png)
 
 ### File Format Selector
 
@@ -71,7 +71,7 @@ enabled plugins. Default options are:
 
 Save recordings as exported files after setting all desired parameters. Customize each file’s name, tags, and destination.
 
-![Saving recording](../../assets/img/Editor_262804_images/328147.png)
+![Saving recording](../../assets/img/editor_images/328147.png)
 
 ## **Export Menu**
 
@@ -80,4 +80,4 @@ Save recordings as exported files after setting all desired parameters. Customiz
   * **C** – **Export status**: Displays the status of the exported file with a timestamp for completion.
   * **D** –**Export history**: Displays completed exports within the current session
 
-![Labelled exports menu](../../assets/img/Editor_262804_images/524293.jpg)
+![Labelled exports menu](../../assets/img/editor_images/524293.jpg)

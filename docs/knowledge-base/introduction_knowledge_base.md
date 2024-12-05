@@ -17,15 +17,15 @@ project was born.
 
 ## **Content Structure**
 
-### [Setting Up Kap](./setting_up_kap/Installation-Guide_327695.md)
+### [Setting Up Kap](./setting_up_kap/installation-guide.md)
 
 This parent page contains two child pages to help users set up the Kap application on their system. The first child page includes installation guidelines, while the second provides a guide to grant screen recording access to the app.
 
-### [Quick Start Guide](Quick-Start-Guide_327712.md)
+### [Quick Start Guide](quick-start-guide.md)
 
 This stand-alone page helps users dive right into using the application. It provides just enough information to get started without overwhelming beginners.
 
-### [Comprehensive User Guide](./comprehensive_user_guide/Tool-Bar_393330.md)
+### [Comprehensive User Guide](./comprehensive_user_guide/tool-bar.md)
 
 This parent page contains a more detailed guide with four child pages. It begins by highlighting the available options within the toolbar, then focuses
 on the app’s preferences and optional plugins. Next, it covers the built-in editor that helps users save their work. Lastly, it walks users through the process of completing a screen recording.

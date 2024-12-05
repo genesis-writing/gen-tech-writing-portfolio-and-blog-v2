@@ -16,31 +16,31 @@ This guide helps you grant the required access on your Mac to ensure Kap can rec
 
 When you first open Kap, a pop-up window requests access to record your screen. Click **“Open System Preferences”**.
 
-![System Preferences](../../assets/img/Screen-Recording-Permission-Guide_393254_images/360497.jpg)
+![System Preferences](../../assets/img/screen-recording-permission-guide_images/360497.jpg)
 
 ### Step 2
 
 Notice that the Kap checkbox is not selected. Click the lock icon to update the list of allowed applications.
 
-![Privacy settings](../../assets/img/Screen-Recording-Permission-Guide_393254_images/393279.jpg)
+![Privacy settings](../../assets/img/screen-recording-permission-guide_images/393279.jpg)
 
 ### Step 3
 
 Use your touch ID or Mac login password to add Kap to the Privacy list.
 
-![System Preferences](../../assets/img/Screen-Recording-Permission-Guide_393254_images/327753.jpg)
+![System Preferences](../../assets/img/screen-recording-permission-guide_images/327753.jpg)
 
 ### Step 4
 
 Check the box next to Kap.
 
-![Setting up Privacy permissions for Kap](../../assets/img/Screen-Recording-Permission-Guide_393254_images/393289.png)
+![Setting up Privacy permissions for Kap](../../assets/img/screen-recording-permission-guide_images/393289.png)
 
 ### Step 5
 
 A prompt informs you to close and re-launch Kap to begin using it or opt to complete this later.
 
-![Prompt to quit Kap to record screen after granting permissions](../../assets/img/Screen-Recording-Permission-Guide_393254_images/393299.jpg)
+![Prompt to quit Kap to record screen after granting permissions](../../assets/img/screen-recording-permission-guide_images/393299.jpg)
 
 !!! tip
 
