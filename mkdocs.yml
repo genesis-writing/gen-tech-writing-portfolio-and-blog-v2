@@ -152,9 +152,12 @@ extra:
       - accept
 
 # For Footer, include option for visitors to update cookie consent form
-copyright: >
-  Copyright &copy; 2024 Genesis Sorto - Technical Writer -
-  <a href="#__consent">Change cookie settings</a>
+copyright: |
+  Copyright &copy; 2025 - Genesis Sorto, Technical Writer - 
+  
+  Opinions are my own and do not reflect my employer's views.
+  
+  <br><a href="#__consent">Change cookie settings</a> 
 
 # Customize theme even further
 extra_css:
