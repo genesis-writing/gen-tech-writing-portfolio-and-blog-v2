@@ -56,6 +56,9 @@ theme:
     # Top-level sections rendered as groups in sidebar
     - navigation.sections
 
+    # Auto-expand all collapsible subsections by default
+    - navigation.expand
+
     # Ensure toc always rendered on the left, within the nav sections
     #- toc.integrate
     
