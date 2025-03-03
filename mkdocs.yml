@@ -73,7 +73,7 @@ theme:
     tag:
       knowledge-base: fontawesome/solid/brain
       sop: fontawesome/solid/users-gear
-      docs-as-code: fontawesome/solid/code-commit
+      docs-as-code: fontawesome/brands/git-alt
       fun: fontawesome/solid/face-smile
       programming: fontawesome/solid/file-code
       blog: fontawesome/brands/microblog
@@ -214,35 +214,46 @@ nav:
   # Home page
   - Home: index.md
 
-  # Knowledge base portfolio pieces - Kap user guide
-  - Knowledge Base:
-    - Project Info: knowledge-base/introduction_knowledge_base.md
-    - Setting Up Kap:
-      - knowledge-base/setting_up_kap/installation-guide.md
-      - Screen Recording Access Guide: knowledge-base/setting_up_kap/screen-recording-permission-guide.md
-    - Quick Start:
-      - knowledge-base/quick-start-guide.md
-    - Comprehensive User Guide:
-      - Tool Bar: knowledge-base/comprehensive_user_guide/tool-bar.md
-      - Preferences and Plugins: knowledge-base/comprehensive_user_guide/preferences-and-plugins.md
-      - Editor: knowledge-base/comprehensive_user_guide/editor.md
-      - How to Complete a Recording: knowledge-base/comprehensive_user_guide/how-to-complete-a-recording.md
+  # Documentation - my writing samples
+  - Docs:
+    # Knowledge base portfolio pieces - Kap user guide
+    - Knowledge Base:
+      - Project Info: knowledge-base/introduction_knowledge_base.md
+      - Setting Up Kap:
+        - knowledge-base/setting_up_kap/installation-guide.md
+        - Screen Recording Access Guide: knowledge-base/setting_up_kap/screen-recording-permission-guide.md
+      - Quick Start:
+        - knowledge-base/quick-start-guide.md
+      - Comprehensive User Guide:
+        - Tool Bar: knowledge-base/comprehensive_user_guide/tool-bar.md
+        - Preferences and Plugins: knowledge-base/comprehensive_user_guide/preferences-and-plugins.md
+        - Editor: knowledge-base/comprehensive_user_guide/editor.md
+        - How to Complete a Recording: knowledge-base/comprehensive_user_guide/how-to-complete-a-recording.md
 
-  # Standard operation procedure portfolio pieces
-  - SOP:
-    - SOP Intro: sop/SOP-intro.md
-    - Business Operation Process: sop/business-operation-process.md
-  
-  # Fun portfolio pieces
-  - Fun:
-    - Fun Intro: fun/fun-intro.md
-    - How to Cook Shrimp Fried Rice: fun/how-to-cook-shrimp-fried-rice.md
-    - Gameboy Colour Technical Data Sheet: fun/gameboy-colour-technical-data-sheet-portfolio.md
-
-  # Crowrite CS50 Final Project
-  - Crowrite: crowrite.md
+    # Standard operation procedure portfolio pieces
+    - SOP:
+      - SOP Intro: sop/SOP-intro.md
+      - Business Operation Process: sop/business-operation-process.md
+    
+    # Fun portfolio pieces
+    - Fun:
+      - Fun Intro: fun/fun-intro.md
+      - How to Cook Shrimp Fried Rice: fun/how-to-cook-shrimp-fried-rice.md
+      - Gameboy Colour Technical Data Sheet: fun/gameboy-colour-technical-data-sheet-portfolio.md
 
   # Blog posts
   - Blog:
     - blog/index.md
+  
+  # Miscellaneous topics
+
+  - Beyond Writing:
+
+      # How I implement docs as code to build the site
+    - Tech Stack: my-tech-stack.md
+
+    # Crowrite CS50 Final Project
+    - Crowrite: crowrite.md
+
+  
 
