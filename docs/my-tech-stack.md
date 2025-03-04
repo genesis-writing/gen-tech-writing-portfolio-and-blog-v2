@@ -28,9 +28,5 @@ Here's my straightforward but effective docs as code workflow, leveraging the to
 
 This tech stack and workflow are my way of putting docs as code principles into action, allowing me to create high quality, efficient, and maintainable documentation. It makes the whole process a lot more fun!
 
-```mermaid
-graph LR
-    A[VS Code: Draft Markdown docs] --> B{GitHub: Push to repo}
-    B --> C[Netlify: Auto-deploy to production]
-    C --> D[Live Website: Production]
-```
+![My GIF for Light Mode](../assets/img/docs-as-code-workflow-light.gif#only-light)
+![My GIF for Dark Mode](../assets/img/docs-as-code-workflow-dark.gif#only-dark)
