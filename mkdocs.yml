@@ -198,6 +198,10 @@ markdown_extensions:
             - name: mermaid
               class: mermaid
               format: !!python/name:pymdownx.superfences.fence_code_format
+  
+  # Introduces tabs to sort content
+  - pymdownx.tabbed:
+      alternate_style: true
 
   #  enables syntax highlighting on code blocks and inline code blocks,
   # and allows to include source code directly from other files
