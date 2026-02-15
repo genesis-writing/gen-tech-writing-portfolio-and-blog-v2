@@ -1,5 +1,5 @@
 ---
-title: Year in Review
+title: 2025 Year in Review
 description: Reflecting on what I learned in 2024
 date: 2025-02-22
 authors: [genesis-writing]
