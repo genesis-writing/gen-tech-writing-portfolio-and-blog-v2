@@ -5,6 +5,7 @@ date: 2026-02-16
 authors: [genesis-writing]
 tags:
   - Blog
+  - AI
 ---
 
 # The Soul of the Technical Writer

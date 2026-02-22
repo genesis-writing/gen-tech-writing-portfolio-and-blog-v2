@@ -5,6 +5,7 @@ date: 2026-02-15
 authors: [genesis-writing]
 tags:
   - Blog
+  - AI
 ---
 
 # 2025 Year in Review
