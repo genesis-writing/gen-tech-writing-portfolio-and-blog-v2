@@ -16,13 +16,13 @@ Initially, I was hesitant. I had become incredibly comfortable with the Claude w
 
 <!-- more -->
 
-But then I watched Alex McFarland’s [masterclass]((https://www.youtube.com/watch?v=Ip566JVP_30)) on building an AI co-writing system, and everything clicked. He was not just using Claude Code to build apps. He was using it to build a writing system. Seeing how he translated developer tools into an engine for creative content made me realize I could do the exact same for technical documentation.
+But then I watched Alex McFarland’s [masterclass](https://www.youtube.com/watch?v=Ip566JVP_30) on building an AI co-writing system, and everything clicked. He was not just using Claude Code to build apps. He was using it to build a writing system. Seeing how he translated developer tools into an engine for creative content made me realize I could do the exact same for technical documentation.
 
 ## Navigating the Shift in Reality
 
 We have to be honest: AI is slamming industries that revolve around the written word. You can feel it in the technical writing community where there is a palpable sense of fear. But it is not just us. Software engineers and creators across the board are feeling the impact.
 
-If you are looking for a reality check that will chill you to the bone, read Matt Shumer’s latest post, ("Something Big Is Happening")[https://shumer.dev/something-big-is-happening)]. He moves past the polite version of AI talk and gets honest. We are in the "this seems overblown" phase of something much bigger than we are prepared for. His cautionary tone is clear: we either learn to engage with curiosity and urgency, or we get left behind. It sounds apocalyptic, but in this industry, it rings true.
+If you are looking for a reality check that will chill you to the bone, read Matt Shumer’s latest post, ["Something Big Is Happening"](https://shumer.dev/something-big-is-happening). He moves past the polite version of AI talk and gets honest. We are in the "this seems overblown" phase of something much bigger than we are prepared for. His cautionary tone is clear: we either learn to engage with curiosity and urgency, or we get left behind. It sounds apocalyptic, but in this industry, it rings true.
 
 ## Building Brick by Brick
 

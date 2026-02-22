@@ -80,7 +80,7 @@ theme:
       fun: fontawesome/solid/face-smile
       programming: fontawesome/solid/file-code
       blog: fontawesome/brands/microblog
-      AI: fontawesome/solid/robot
+      ai: fontawesome/solid/robot
     
     # Icon for repo link
     repo: fontawesome/brands/github
@@ -138,7 +138,8 @@ extra:
     Blog: blog
     Programming: programming
     Docs as code: docs-as-code
-    Artificial intelligence: AI
+    Artificial intelligence: ai
+    AI: ai
 
   # Google Analytics
   analytics:
