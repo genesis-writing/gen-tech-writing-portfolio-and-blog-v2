@@ -1,5 +1,5 @@
 ---
-title: 2025 Year in Review
+title: 2024 Year in Review
 description: Reflecting on what I learned in 2024
 date: 2025-02-22
 authors: [genesis-writing]
@@ -28,7 +28,7 @@ I won’t go into much detail here since I already wrote a [blog post](2024-07-2
 
 ## Learned How to Document APIs
 
-Another priority for 2024 was learning how to write API documentation. Ever since I learned what an API was, I’ve been fascinated by how a simple request can return useful data for applications. In the technical writing community, one resource is recommended time and time again for learning API documentation: [Tom John's course](https://idratherbewriting.com/learnapidoc/).
+Another priority for 2024 was learning how to write API documentation. Ever since I learned what an API was, I’ve been fascinated by how a simple request can return useful data for applications. In the technical writing community, one resource is recommended time and time again for learning API documentation: [Tom Johnson's course](https://idratherbewriting.com/learnapidoc/).
 
 Tom structured the course neatly, starting with foundational API knowledge before stepping into the role of a developer. This hands-on approach was fun because I got to experiment with API calls using curl and Postman. The course also introduced me to the OpenAPI specification and interactive documentation tools. A great side effect was deepening my understanding of docs as code. While I had heard of the concept before, I didn’t truly grasp its significance until now.
 

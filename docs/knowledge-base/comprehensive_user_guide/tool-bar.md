@@ -4,7 +4,7 @@ tags:
   - Knowledge Base
 ---
 
-# Tool Bar
+# Toolbar
 
 ## **Purpose**
 
@@ -18,7 +18,7 @@ This guide highlights the available options in the Kap toolbar.
   * **D**: Full-screen capture
   * **E**: Other
 
-![Labelled toolbar](../../assets/img/tool-bar_images/393363.jpg)
+![Labeled toolbar](../../assets/img/tool-bar_images/393363.jpg)
 
 ## **Options Overview**
 

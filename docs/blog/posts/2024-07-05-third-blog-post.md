@@ -1,6 +1,6 @@
 ---
 title: Mermaid?
-description: Sharing what I learned about Mermaid
+description: Discovering Mermaid diagrams
 date: 2024-07-05
 authors: [genesis-writing]
 tags:

@@ -1,6 +1,6 @@
 ---
 title: MkDocs is Amazing
-description: Sharing my initial thoughts about MkDocs
+description: Building a second version of my portfolio with MkDocs
 date: 2024-07-07
 authors: [genesis-writing]
 tags:

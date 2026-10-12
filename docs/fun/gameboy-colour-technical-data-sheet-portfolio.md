@@ -1,10 +1,10 @@
 ---
-title: Gameboy Colour Technical Data Sheet
+title: Gameboy Color Technical Data Sheet
 tags:
   - Fun
 ---
 
-# Gameboy Colour Technical Data Sheet
+# Gameboy Color Technical Data Sheet
 
 ## **Overview**
 

@@ -20,7 +20,7 @@ This guide highlights the available options in the Kap editor. The default optio
   * **F**: Export location selector
   * **G**: Conversion
 
-![Labelled editor options](../../assets/img/editor_images/393689.jpg)
+![Labeled editor options](../../assets/img/editor_images/393689.jpg)
 
 ## Options Overview
 
@@ -80,4 +80,4 @@ Save recordings as exported files after setting all desired parameters. Customiz
   * **C** – **Export status**: Displays the status of the exported file with a timestamp for completion.
   * **D** –**Export history**: Displays completed exports within the current session
 
-![Labelled exports menu](../../assets/img/editor_images/524293.jpg)
+![Labeled exports menu](../../assets/img/editor_images/524293.jpg)

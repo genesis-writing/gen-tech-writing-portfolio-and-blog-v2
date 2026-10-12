@@ -10,7 +10,7 @@ tags:
 
 This guide helps you grant the required access on your Mac to ensure Kap can record your screen.
 
-## **Four-step Process**
+## **Five-step Process**
 
 ### Step 1
 

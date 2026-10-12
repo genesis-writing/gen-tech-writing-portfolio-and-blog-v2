@@ -19,7 +19,7 @@ Before you begin, ensure you have:
 
 !!! tip
 
-    Open Kap from your Applications folder. If you use this app frequently, right- click the dock icon, choose options, and select "Keep in Dock".
+    Open Kap from your Applications folder. If you use this app frequently, right-click the dock icon, choose options, and select "Keep in Dock".
 
 
 ## **How to Complete a Recording in Six Easy Steps**
@@ -60,7 +60,7 @@ After the recording ends, an editor window will display.
 
 ### Step 6
 
-Set size parameters, frames per second, file format, and export location. Click **" Convert"** to save the recording. You can also customize the file's name, tags, and destination.
+Set size parameters, frames per second, file format, and export location. Click **"Convert"** to save the recording. You can also customize the file's name, tags, and destination.
 
 ![Video editing options](../assets/img/kap-quick-start-guide_images/589884.png)
 
